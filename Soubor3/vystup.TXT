@@ -1,0 +1,7 @@
+13
+Soucet je : 
+4
+Prumer je : 
+ 2.000000000000000E+000
+Minimum je : 
+1
